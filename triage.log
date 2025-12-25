@@ -1,0 +1,38 @@
+2025-12-25 18:16:21 - INFO - Starting cleanup in: D:\Semester 05\SFS_V0.0
+2025-12-25 18:16:21 - INFO - Moved: config.py -> Code/config.py
+2025-12-25 18:16:21 - INFO - Moved: core.py -> Code/core.py
+2025-12-25 18:16:21 - INFO - Moved: main.py -> Code/main.py
+2025-12-25 18:16:21 - INFO - Moved: random_script.py -> Code/random_script.py
+2025-12-25 18:16:21 - INFO - Moved: song.mp3 -> Audio/song.mp3
+2025-12-25 18:16:21 - INFO - Moved: test_doc.pdf -> Documents/test_doc.pdf
+2025-12-25 18:16:21 - INFO - Moved: vacation.jpg -> Images/vacation.jpg
+2025-12-25 18:16:21 - INFO - Cleanup completed.
+2025-12-25 18:17:34 - INFO - Starting cleanup in: D:\Semester 05\SFS_V0.0
+2025-12-25 18:17:34 - WARNING - Collision detected: test_doc.pdf -> Renaming to test_doc_20251225_181734.pdf
+2025-12-25 18:17:34 - INFO - Moved: test_doc.pdf -> Documents/test_doc_20251225_181734.pdf
+2025-12-25 18:17:34 - INFO - Cleanup completed.
+2025-12-25 18:18:04 - INFO - Starting cleanup in: D:\Semester 05\SFS_V0.0
+2025-12-25 18:18:04 - INFO - Moved: UPPERCASE.JPG -> Images/UPPERCASE.JPG
+2025-12-25 18:18:04 - INFO - Cleanup completed.
+2025-12-25 18:21:33 - INFO - New file detected: D:\Semester 05\SFS_V0.0\watch_test.txt
+2025-12-25 18:21:33 - INFO - Moved: watch_test.txt -> Documents/watch_test.txt
+2025-12-25 18:24:30 - INFO - New file detected: D:\Semester 05\SFS_V0.0\New Text Document.txt
+2025-12-25 18:24:30 - INFO - Moved: New Text Document.txt -> Documents/New Text Document.txt
+2025-12-25 18:27:28 - INFO - Starting cleanup in: D:\Semester 05\SFS_V0.0
+2025-12-25 18:27:28 - INFO - No files found to organize.
+2025-12-25 18:29:26 - INFO - New file detected: D:\Semester 05\SFS_V0.0\deny_this.txt
+2025-12-25 18:29:44 - INFO - Skipped: deny_this.txt (User cancelled)
+2025-12-25 18:29:55 - INFO - New file detected: D:\Semester 05\SFS_V0.0\accept_this.txt
+2025-12-25 18:30:18 - INFO - Skipped: accept_this.txt (User cancelled)
+2025-12-25 18:30:29 - INFO - New file detected: D:\Semester 05\SFS_V0.0\confirm_this.txt
+2025-12-25 18:30:42 - INFO - Moved: confirm_this.txt -> Documents/confirm_this.txt
+2025-12-25 18:37:08 - INFO - Starting lifecycle cleanup...
+2025-12-25 18:37:19 - INFO - Deleted old file: Executables/old_app.exe
+2025-12-25 18:37:19 - INFO - Lifecycle cleanup completed.
+2025-12-25 18:37:50 - INFO - Starting lifecycle cleanup...
+2025-12-25 18:37:50 - INFO - Lifecycle cleanup completed.
+2025-12-25 18:37:59 - INFO - Starting lifecycle cleanup...
+2025-12-25 18:37:59 - INFO - Lifecycle cleanup completed.
+2025-12-25 18:38:14 - INFO - Starting cleanup in: D:\Semester 05\SFS_V0.0
+2025-12-25 18:38:19 - INFO - Moved: accept_this.txt -> Documents/accept_this.txt
+2025-12-25 18:38:21 - INFO - Moved: deny_this.txt -> Documents/deny_this.txt

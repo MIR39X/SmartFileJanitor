@@ -1,0 +1,20 @@
+ {
+    "EXTENSION_MAP": {
+        "Documents": [".pdf", ".docx", ".doc", ".txt", ".rtf", ".odt", ".xls", ".xlsx", ".ppt", ".pptx", ".md", ".csv"],
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".svg", ".webp", ".ico"],
+        "Audio": [".mp3", ".wav", ".aac", ".flac", ".ogg", ".m4a"],
+        "Video": [".mp4", ".mkv", ".mov", ".avi", ".wmv", ".flv"],
+        "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".iso", ".dmg"],
+        "Executables": [".exe", ".msi", ".bat", ".sh", ".app", ".lnk"],
+        "Code": [".py", ".js", ".html", ".css", ".java", ".cpp", ".c", ".h", ".json", ".xml", ".sql", ".ipynb"],
+        "Others": []
+    },
+    "RETENTION_POLICIES": {
+        "Installers": 30,
+        "Temp": 30,
+        "Archives": 30,
+        "Executables": 30
+    },
+    "OTHERS_FOLDER": "Others",
+    "LOG_FILENAME": "triage.log"
+}
