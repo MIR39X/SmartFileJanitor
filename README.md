@@ -86,3 +86,6 @@ Modify `config.json` to customize your experience.
 
 ---
 *Automate the boring stuff, so you can focus on the cool stuff.*
+*Mir Boi Signing off*
+---
+
