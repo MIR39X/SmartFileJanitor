@@ -19,7 +19,7 @@ Whether you're downloading lecture slides, saving memes, or coding late at night
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MIR39X/SmartFileJanitor
     cd SFS_V0.0
     ```
 
